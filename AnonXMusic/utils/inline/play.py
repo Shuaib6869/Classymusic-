@@ -61,7 +61,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url="https://t.me/DEEPU_KA_BAAP_SUKUNA"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url="https://t.me/PieLoJi"
             ),
             InlineKeyboardButton(
                 text="❰𝗔𝗹𝗹 𝗕𝗼𝘁❱", url="https://t.me/VILLAIN_MUSIC_UPDATE "
@@ -88,7 +88,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🔥𝗦𝗨𝗞𝗨𝗡𝗔 𝗣𝗹𝗮𝘆𝗶𝗻𝗴🚩", url="https://t.me/DEEPU_KA_BAAP_SUKUNA",
+                text="🔥𝗦𝗨𝗞𝗨𝗡𝗔 𝗣𝗹𝗮𝘆𝗶𝗻𝗴🚩", url="https://t.me/PieLoJi",
             ),
         ],
         [
