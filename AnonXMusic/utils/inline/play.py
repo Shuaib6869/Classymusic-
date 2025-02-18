@@ -37,7 +37,7 @@ def stream_markup_timer(_, chat_id, played, dur):
     elif 10 < umm < 20:
         bar = "━⚪━━━━━━━━━"
     elif 20 <= umm < 30:
-        bar = "🔥𝗦𝗨𝗞𝗨𝗡𝗔 𝗣𝗹𝗮𝘆𝗶𝗻𝗴"
+        bar = " 𝗔𝗮𝗱𝗶𝗹 𝘀𝘁𝝰𝗿 𝗣𝗹𝗮𝘆𝗶𝗻𝗴"
     elif 30 <= umm < 40:
         bar = "━━━━⚪━━━━━━"
     elif 40 <= umm < 50:
@@ -61,7 +61,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="❰𝙊𝙬𝙣𝙚𝙧❱", url="https://t.me/PieLoJi"
+                text="❰𝙊𝙬𝙣𝙚𝙧❱", url="https://t.me/NoT_YoUr_AADIL"
             ),
             InlineKeyboardButton(
                 text="❰𝗔𝗹𝗹 𝗕𝗼𝘁❱", url="https://t.me/VILLAIN_MUSIC_UPDATE "
@@ -88,7 +88,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🔥𝗦𝗨𝗞𝗨𝗡𝗔 𝗣𝗹𝗮𝘆𝗶𝗻𝗴🚩", url="https://t.me/PieLoJi",
+                text="🔥𝗦𝗨𝗞𝗨𝗡𝗔 𝗣𝗹𝗮𝘆𝗶𝗻𝗴🚩", url="https://t.me/NoT_YoUr_AADIL",
             ),
         ],
         [
